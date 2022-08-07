@@ -1,5 +1,5 @@
 AirBnB Clone License: MIT Build Status
-HBnB Logo
+
 
 Contents
 Description
