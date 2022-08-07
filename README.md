@@ -72,7 +72,7 @@ count Retrieve the number of instances of a class
 help Prints information about specific command
 quit/ EOF Exit the program
 
-# Acknowledgements 🙌
+# Acknowledgements
 
 To all the peers that contribuited with their knowledge
 
